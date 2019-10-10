@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ’10.0’
+use_frameworks!
+target 'LGFinalDemoSwift' do
+
+# For LGSideMenu https://github.com/Friend-LGA/LGSideMenuController
+pod 'LGSideMenuController', '~> 2.1.1'
+
+
+end

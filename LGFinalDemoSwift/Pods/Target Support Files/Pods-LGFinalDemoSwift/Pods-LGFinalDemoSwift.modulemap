@@ -1,0 +1,6 @@
+framework module Pods_LGFinalDemoSwift {
+  umbrella header "Pods-LGFinalDemoSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
